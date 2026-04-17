@@ -49,3 +49,4 @@ int main() {
 
 		cout << "arrBool[" << i << "] = '" << arrBool[i] << "'" << endl;
 	}
+}
